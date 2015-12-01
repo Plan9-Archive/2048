@@ -9,7 +9,8 @@
 
 enum
 {
-	Border = 4,
+	BORDER = 4,
+	BOARDSIZE = 4,
 };
 
 typedef struct Tile Tile;
